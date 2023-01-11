@@ -1,6 +1,6 @@
-# New SE305 MVC PHP Framework
+# New Web Development MVC PHP Framework
 
-This document MVC for SE305 course at MIU.
+This document MVC for SWE230 course at MIU.
 
 ## Description
 
